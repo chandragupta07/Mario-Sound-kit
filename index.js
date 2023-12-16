@@ -1,3 +1,4 @@
+alert("press keys on keyboard or click on the buttons to play sounds!");
 var audios = [
     new Audio('sounds/coin.wav'),
     new Audio('sounds/die.wav'),
